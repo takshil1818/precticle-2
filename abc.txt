@@ -2,5 +2,9 @@ my first code in the gihub repo with takshill
 
 
 now again check
+<<<<<<< HEAD
 now conflict
  .
+=======
+now conflict
+>>>>>>> 890d471e1cd920685b95628eb0dea80c4e162a75
